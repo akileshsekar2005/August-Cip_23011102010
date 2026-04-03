@@ -125,10 +125,10 @@ Encrypt → Hash → Decrypt → Compare
 
 ##  Features
 
-- ✅ Combines hashing and encryption  
-- ✅ Ensures data integrity  
-- ✅ Demonstrates classical + modern cryptography  
-- ✅ Easy to understand and implement  
+-  Combines hashing and encryption  
+-  Ensures data integrity  
+-  Demonstrates classical + modern cryptography  
+-  Easy to understand and implement  
 
 ---
 
