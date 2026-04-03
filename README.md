@@ -110,17 +110,6 @@ Verification: Data Integrity Verified
 
 ---
 
-### ✅ Example 2
-
-**Input:**
-Plaintext: world
-
-**Output:**
-Hash: 486ea46224d1bb4f...
-Cipher Text: 597fb57335e2cc5g...
-Decrypted Hash: 486ea46224d1bb4f...
-Verification: Data Integrity Verified
-
 
 ---
 
