@@ -1,7 +1,7 @@
 # Crypto_CIA
-# 🔐 August Cipher with SHA-256 Hashing
+# August Cipher with SHA-256 Hashing
 
-## 📌 Overview
+## Overview
 This project implements a hybrid cryptographic approach combining:
 
 - **SHA-256 Hashing** → for data integrity  
@@ -11,7 +11,7 @@ The system ensures that the data is **securely transformed** and later **verifie
 
 ---
 
-## ⚙️ Workflow
+##  Workflow
 Plaintext → SHA-256 Hash → August Cipher → Cipher Text
 ↓
 Reverse Cipher
@@ -21,7 +21,7 @@ Compare Hash Values
 
 ---
 
-## 🧠 Algorithm
+##  Algorithm
 
 ### Step 1: Start
 
@@ -94,9 +94,9 @@ Data Tampered
 
 ---
 
-## 🧪 Worked Examples
+##  Worked Examples
 
-### ✅ Example 1
+###  Example 1
 
 **Input:**
 Plaintext: hello
@@ -113,7 +113,7 @@ Verification: Data Integrity Verified
 
 ---
 
-## 🔁 Round-Trip Verification
+##  Round-Trip Verification
 
 This project demonstrates:
 Encrypt → Hash → Decrypt → Compare
@@ -123,7 +123,7 @@ Encrypt → Hash → Decrypt → Compare
 
 ---
 
-## 🚀 Features
+##  Features
 
 - ✅ Combines hashing and encryption  
 - ✅ Ensures data integrity  
@@ -132,13 +132,13 @@ Encrypt → Hash → Decrypt → Compare
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 - August Cipher is **not secure for real-world encryption**
 - SHA-256 is **one-way (cannot recover plaintext)**
 - Designed for **educational purposes only**
 
-## 📚 Concepts Used
+##  Concepts Used
 
 - Cryptographic Hash Functions (SHA-256)
 - Caesar Cipher (Shift-based encryption)
